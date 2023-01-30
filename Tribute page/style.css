@@ -1,0 +1,43 @@
+body {
+    background-color: #c9bbbb;
+    margin: 15px;
+    border: 0px;
+  }
+  
+  .top-section {
+    text-align: center;
+  }
+  
+  .container {
+    border: 1.5px solid black;
+    font-size: 20px;
+    padding: 10px;
+  }
+  .last-section {
+    font-size: 20px;
+    font-family: "Times New Roman", Geneva, Verdana, sans-serif, Times, serif;
+    line-height: 30px;
+    word-spacing: 1px;
+    padding: 20px;
+  }
+  
+  .middle-section {
+    padding: 20px;
+  }
+  .middle-section h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 2px;
+  }
+  p {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 30px;
+    word-spacing: 10%;
+    letter-spacing: 0.6px;
+  }
+  
+  footer p {
+    text-align: center;
+  }
